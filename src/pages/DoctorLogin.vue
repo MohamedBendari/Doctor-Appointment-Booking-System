@@ -62,8 +62,8 @@
 
           <div class="p-3 mt-4 rounded-3 border-start border-4 border-primary bg-light text-muted">
             <h4 class="h6 fw-bold mb-1">Demo Credentials:</h4>
-            <p class="mb-0 small"><strong>Email:</strong> doctor@clinic.com</p>
-            <p class="mb-0 small"><strong>Password:</strong> 123456</p>
+            <p class="mb-0 small"><strong>Email:</strong> ahmed.mohamed@hospital.com</p>
+            <p class="mb-0 small"><strong>Password:</strong> 1234567</p>
           </div>
         </div>
       </div>

@@ -38,13 +38,12 @@ export const doctors = [
     email: "mohamed.hassan@dental.com",
     password: "1234567"
   },
-  
-   {
+  {
     id: 4,
     name: "Dr. Sara Ahmed",
     specialty: "Dermatology",
     location: "Cairo",
-    photo: "https://picsum.photos/id/1014/300/300", 
+    photo: "https://images.unsplash.com/photo-1594824475317-d0c1e8e7e5e5?w=300&h=300&fit=crop&crop=face",
     availableSlots: ["10:00", "11:00", "12:00", "15:00", "16:00", "17:00"],
     rating: 4.6,
     experience: "8 years of experience",
